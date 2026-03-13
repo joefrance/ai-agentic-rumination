@@ -43,6 +43,8 @@ That mental model led to a set of real concerns:
 
 ## Seven Concerns About Turning Agents Loose
 
+**The Lethal Trifecta.** An agent that simultaneously has (1) access to your private data, (2) exposure to untrusted content, and (3) authority to act on your behalf creates a fundamentally new attack surface. Any two are manageable. All three together mean a compromised prompt can hijack your entire digital identity.
+
 ### 1. How much authority do I give the agent?
 - What decisions can it make without asking me?
 - Where are the guardrails — and who sets them?
@@ -104,3 +106,11 @@ These personal concerns map directly onto the bigger themes:
 The full talk outline explores each of these in depth — with historical context from Turing to Kurzweil, real-world incidents, and the open question of whether LLMs are even the right foundation for agents we're supposed to trust with our lives.
 
 *See: [Full Talk Outline](openclaw-autonomous-agency.md) | [One-Pager Summary](openclaw-autonomous-agency-summary.md)*
+
+---
+
+## See Also
+
+### Moonshots with Peter Diamandis
+- [Elon Musk on AGI Timeline, US vs China, Job Markets, Clean Energy & Humanoid Robots | EP #220](https://youtu.be/RSNuB9pj9P8?si=-NiKEnar8wbAKZe_)
+- [OpenClaw Debate: AI Personhood, Proof of AGI, and the 'Rights' Framework | EP #227](https://youtu.be/JlB852LGRJk?si=u2z248GMREfOEPfu)
